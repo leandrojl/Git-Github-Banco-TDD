@@ -10,6 +10,7 @@ public class Cliente {
 	protected Integer password;
 	protected boolean cliente_vip;
     protected Cuenta cuenta;
+    protected Integer numeroDeCuenta;
 
 	
     public Cliente (String nombre, String apellido, int nro_cliente, int password,Cuenta cuenta){

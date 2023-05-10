@@ -55,7 +55,7 @@ public class TestBanco {
 	//ANA
 	@Test
 	public void queSePuedaDepositarDineroEnUnaCuenta() {
-	Cliente pepe = new Cliente(false);
+	Cliente jaimito = new Cliente(true);
 	
 	
 	}
